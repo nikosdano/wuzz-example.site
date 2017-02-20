@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%) ;
+}
+
+.main {
+    padding-top:15px;
+    width:55%;
+    margin:auto;
+    font-family: 'Roboto', sans-serif;
+}
+.footer {
+    width:55%;
+    margin:auto;
+    position:absolute;
+    padding-top:15px;
+}
+a {
+    color: #4499dd;
+    padding:2px;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    text-decoration: underline;
+}
+
